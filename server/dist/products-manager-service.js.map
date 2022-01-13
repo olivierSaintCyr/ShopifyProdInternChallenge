@@ -1,0 +1,1 @@
+{"version":3,"file":"products-manager-service.js","sourceRoot":"","sources":["../src/products-manager-service.ts"],"names":[],"mappings":";;;AAAA,yDAAqD;AAErD,MAAa,sBAAsB;IAI/B,IAAI,QAAQ;QACR,IAAI,CAAC,sBAAsB,CAAC,QAAQ,EAAE;YAClC,sBAAsB,CAAC,QAAQ,GAAG,IAAI,kCAAe,EAAE,CAAC;SAC3D;QACD,OAAO,sBAAsB,CAAC,QAAQ,CAAC;IAC3C,CAAC;CACJ;AAVD,wDAUC"}
