@@ -2,7 +2,7 @@ import express from 'express';
 import { initialProducts } from './initial-products';
 import { ProductsApiController } from './products-api-controller';
 import { ProductsManager } from './products-manager';
-import { ShipementApiController } from './shipements-api-controller';
+import { ShipementApiController } from './shipments-api-controller';
 import { ShipmentsHandler } from './shipments-handler';
 
 const app = express();
